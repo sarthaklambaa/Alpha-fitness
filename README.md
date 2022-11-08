@@ -1,3 +1,3 @@
 # Alpha-fitness
 
-Output can be seen at http://www.alphafitness.co.in
+Output can be seen at http://alphafitness.co.in/
